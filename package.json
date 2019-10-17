@@ -1,0 +1,24 @@
+{
+  "name": "cmd-argv",
+  "version": "1.0.0",
+  "description": "用于获取cmd输入参数",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 没有测试用例"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a951055/argv-cmd.git"
+  },
+  "keywords": [
+    "progress",
+    "argv",
+    "获取cmd参数"
+  ],
+  "author": "Halo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a951055/argv-cmd/issues"
+  },
+  "homepage": "https://github.com/a951055/argv-cmd#readme"
+}
