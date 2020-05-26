@@ -1,6 +1,6 @@
 {
   "name": "cmd-argvs",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "用于获取cmd输入参数",
   "main": "index.js",
   "scripts": {
