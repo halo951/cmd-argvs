@@ -22,7 +22,7 @@ for (let i = origin.length - 1; i >= 0; i--) {
 argv.alias = (origin, replacedKey) => {
   if (argv[origin]) {
     argv[replacedKey] = argv[origin];
-    delete argv[origin];
+    // delete argv[origin];
   }
   return argv;
 };
